@@ -1,0 +1,6 @@
+Term,Library,p-value,q-value,z-score,combined score,overlaps
+Staphylococcus aureus infection,KEGG_2021_Human,6.87E-08,6.11E-06,34.34,566.4,IL10;C4A;ITGAM;FCGR2B;CAMP;C2
+Transcriptional misregulation in cancer,KEGG_2021_Human,0.000004318,0.0001922,16.35,202,ITGAM;BCL6;BCL2A1;PPARG;AFF1;ELANE
+Pertussis,KEGG_2021_Human,0.00002549,0.0007561,26.94,285,IL10;C4A;ITGAM;C2
+Systemic lupus erythematosus,KEGG_2021_Human,0.0002387,0.00531,14.76,123.1,IL10;C4A;ELANE;C2
+Tuberculosis,KEGG_2021_Human,0.0007088,0.01262,10.96,79.51,IL10;ITGAM;FCGR2B;CAMP
